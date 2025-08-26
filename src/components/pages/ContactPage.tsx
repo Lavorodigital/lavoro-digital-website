@@ -6,7 +6,7 @@ import { Input } from '../ui/input';
 import { Textarea } from '../ui/textarea';
 import { Label } from '../ui/label';
 import { Mail, Phone, MapPin, Send, MessageCircle, Linkedin, Twitter, Instagram } from 'lucide-react';
-import { toast } from 'sonner@2.0.3';
+import { toast } from "sonner";
 
 interface ContactPageProps {
   onPageChange: (page: string) => void;

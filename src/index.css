@@ -72,7 +72,7 @@
       --tw-scale-x: 1;
       --tw-scale-y: 1;
       --tw-scale-z: 1;
-      --tw-content: "";
+      --tw-content: ";
     }
   }
 }
@@ -5605,7 +5605,7 @@ html {
 @property --tw-content {
   syntax: "*";
   inherits: false;
-  initial-value: "";
+  initial-value: ";
 }
 
 @keyframes pulse {
